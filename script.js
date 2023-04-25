@@ -95,7 +95,7 @@ $(document).ready(function () {
         window.open("https://drive.google.com/file/d/1o_ITPcR9QIfBu3a1DShUGMy9UfWbe1Kv/view?usp=share_link", "_blank");
         break;
       case "software":
-        window.open("https://drive.google.com/file/d/1GgNBP5NbY0C2nnp-xSN3H2Tb8QWbeFcs/view?usp=share_link", "_blank");
+        window.open("https://drive.google.com/file/d/17XjuxXhi3TwdnFQ0Zg3qYBMxT6oc9d7k/view?usp=share_link", "_blank");
         break;
       case "java":
         window.open("https://drive.google.com/file/d/1bt_aEOZvvBIzsw7Xq_m9lRDgjUyjlh0c/view?usp=share_link", "_blank");
